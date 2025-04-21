@@ -2,7 +2,10 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 48706 - Feldkircher, Valentin
+* 46166 - Borelli, Hernan
+* 51550 - Falcon, Ramiro
+* 48033 - Fernandez, Martina
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
