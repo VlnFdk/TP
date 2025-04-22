@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * 48706 - Feldkircher, Valentin
-* 46166 - Borelli, Hernan
+* 46166 - Borelli, Hernán
 * 51550 - Falcon, Ramiro
 * 48033 - Fernandez, Martina
 
@@ -14,7 +14,8 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Sistema para administración de edificios. El objetivo del sistema es proporcionar una plataforma que facilite a los usuarios la gestión de distintos tipos de inmuebles. De manera preeliminar los usuarios del sistema podrian tener alguno de los siguientes roles: Administrador, propietario, inquiilino y personal de mantenimiento. El sistema permitira gestionar el uso y mantenimiento de áreas comunes, el pago y liquidacion de expensas, reporte de problemas y notificación de vencimientos.
+
 
 ### Modelo
 ![imagen del modelo]()
