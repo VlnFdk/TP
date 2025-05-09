@@ -20,7 +20,8 @@ Sistema para administración de edificios. El objetivo del sistema es proporcion
 ### Modelo
 [Modelo](https://drive.google.com/drive/folders/1i3ZkWKXsX78iOBaCGWFN849ChEIzCFs0)
 
-![Modelo_TP_DSW drawio](https://github.com/user-attachments/assets/d9b54fbc-52c6-460e-8b05-f9364e775a70)
+![Modelo_TP_DSW drawio](https://github.com/user-attachments/assets/c3e62a28-1dee-4345-ba8c-20a2894c547b)
+
 
 
 ## Alcance Funcional 
