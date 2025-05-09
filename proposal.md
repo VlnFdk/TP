@@ -31,8 +31,8 @@ Sistema para administración de edificios. El objetivo del sistema es proporcion
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario <br>2. CRUD Inmueble<br>3. CRUD Edificio<br>4. CRUD Area Comun| 
-|CRUD dependiente|1. CRUD Usuario {depende de} CRUD Tipo Usuario <br>2. CRUD Edificio {depende de} CRUD Localidad|
+|CRUD simple|1. CRUD Tipo Usuario <br>2. CRUD Tipo Inmueble<br>3. CRUD Edificio<br>4. CRUD Tipo Área Común| 
+|CRUD dependiente|1. CRUD Usuario {depende de} CRUD Tipo Usuario <br>2. CRUD Incidencia {depende de} CRUD Área Común|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
 
