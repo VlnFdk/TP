@@ -20,7 +20,8 @@ Sistema para administración de edificios. El objetivo del sistema es proporcion
 ### Modelo
 [Modelo](https://drive.google.com/drive/folders/1i3ZkWKXsX78iOBaCGWFN849ChEIzCFs0)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+![Modelo_TP_DSW drawio](https://github.com/user-attachments/assets/d9b54fbc-52c6-460e-8b05-f9364e775a70)
+
 
 ## Alcance Funcional 
 
