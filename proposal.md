@@ -14,7 +14,7 @@
 
 ## Tema
 ### Descripción
-Sistema para administración de edificios. El objetivo del sistema es proporcionar una plataforma que facilite a los usuarios la gestión de distintos tipos de inmuebles. De manera preeliminar los usuarios del sistema podrian tener alguno de los siguientes roles: Administrador, propietario, inquiilino y personal de mantenimiento. El sistema permitira gestionar el uso y mantenimiento de áreas comunes, el pago y liquidacion de expensas, reporte de problemas y notificación de vencimientos.
+Sistema para administración de edificios. El objetivo del sistema es proporcionar una plataforma que facilite a los usuarios la gestión de distintos tipos de inmuebles. De manera preeliminar los usuarios del sistema podrian tener alguno de los siguientes roles: Administrador, Personal de mantenimiento y Residente. El sistema permitira gestionar el uso y mantenimiento de áreas comunes, el pago y liquidacion de expensas, reporte de problemas y notificación de vencimientos.
 
 
 ### Modelo
@@ -33,8 +33,8 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Usuario <br>2. CRUD Tipo Inmueble<br>3. CRUD Edificio<br>4. CRUD Tipo Área Común| 
 |CRUD dependiente|1. CRUD Usuario {depende de} CRUD Tipo Usuario <br>2. CRUD Incidencia {depende de} CRUD Área Común|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|Listado<br>+<br>detalle| 1. Listado de expensas filtrado por tipo de expensas, muestra mes,año y tipo de expensas => detalle CRUD Expensas<br> 2. Listado de reservas de Áreas comunes filtrado por rango de fecha, muestra Tipo Área Común, hora inicio y fin reserva, estado y nombre del Residente => detalle muestra datos completos de la reserva y del Residente|
+|CUU/Epic|1. Reservar un Área Común para un Residente <br>2. Registrar una incidencia de un Área Común|
 
 
 Adicionales para Aprobación
