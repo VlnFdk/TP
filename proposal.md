@@ -11,6 +11,7 @@
 * [frontend app](http://hyperlinkToGihubOrGitlab)
 * [backend app](https://github.com/VlnFdk/TP-DSW-Back)
 * [Tablero Trello](https://trello.com/b/fIDYLkz3/tp)
+
 Nota: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
