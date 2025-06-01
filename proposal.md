@@ -30,7 +30,6 @@ Sistema para administración de edificios. El objetivo del sistema es proporcion
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
 
 Regularidad:
 |Req|Detalle|
